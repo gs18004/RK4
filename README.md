@@ -3,12 +3,12 @@
 ### Ch 2.4 예제 4에 초기값 조건을 추가한 미분방정식
 
 <!-- $$ (x^2 - 9) {dy \over dx} + xy = 0, \, y(5) = 1 $$ -->
-![equation](http://www.sciweavers.org/upload/Tex2Img_1602414685/eqn.png)
+![equation](https://latex.codecogs.com/svg.latex?\LARGE&space;(x^2&space;-&space;9)&space;{dy&space;\over&space;dx}&space;&plus;&space;xy&space;=&space;0,&space;y(5)&space;=&space;1)
 
 ##
 직접 해를 구하면,
 <!-- $$ y = {4 \over \sqrt{x^2 - 9}} $$ -->
-![equation](http://www.sciweavers.org/upload/Tex2Img_1602414714/eqn.png)
+![equation](https://latex.codecogs.com/svg.latex?\LARGE&space;y&space;=&space;{4&space;\over&space;\sqrt{x^2&space;-&space;9}})
 
 ##
 ### Python 코드
